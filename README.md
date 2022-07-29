@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rumeysa
-- 👀 I’m interested in programing, and cooking 
+- 👀 I’m interested in programing, and music 🎶 
 - 🌱 I’m currently learning web development, frontend
 
 <!---
